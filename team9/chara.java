@@ -14,10 +14,21 @@ public class chara extends Actor
      */
     public void act() 
     {
+<<<<<<< HEAD
         if( Greenfoot.isKeyDown( "up" ) ){
         setRotation(270);
         move(1);
 
     }  
 }
+=======
+        // Add your action code here.
+        if( Greenfoot.isKeyDown("down"))
+        {
+            setRotation(90);
+            move(1);
+        }
+            
+    }   
+>>>>>>> 7c653d2a750c7e0247fd6ec16a9df53267db14c1
 }
