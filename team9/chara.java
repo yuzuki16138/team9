@@ -19,7 +19,11 @@ public class chara extends Actor
         setRotation(270);
         move(1);
 
+<<<<<<< Updated upstream
         }  
+=======
+    }  
+>>>>>>> Stashed changes
 
 
         // Add your action code here.
