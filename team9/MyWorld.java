@@ -23,5 +23,6 @@ public class MyWorld extends World
         addObject( new gu(), 300, 350 );
         addObject( new choki(), 100, 350 );
         addObject( new pa(), 500, 350 );
+        
     }
 }
