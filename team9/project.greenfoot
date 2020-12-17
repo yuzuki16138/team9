@@ -15,6 +15,7 @@ dependency2.type=UsesDependency
 dependency3.from=MyWorld
 dependency3.to=pa
 dependency3.type=UsesDependency
+<<<<<<< HEAD
 editor.fx.0.height=739
 editor.fx.0.width=816
 editor.fx.0.x=469
@@ -26,6 +27,13 @@ editor.fx.0.x=0
 editor.fx.0.y=0
 >>>>>>> Stashed changes
 height=576
+=======
+editor.fx.0.height=722
+editor.fx.0.width=800
+editor.fx.0.x=862
+editor.fx.0.y=23
+height=451
+>>>>>>> 5b14fb4627e2cdac852d130ed45f91054bc59c13
 package.numDependencies=3
 package.numTargets=8
 project.charset=UTF-8
@@ -85,26 +93,21 @@ target6.width=80
 target6.x=0
 target6.y=0
 target7.height=50
-target7.name=gu
+target7.name=MyWorld
 target7.showInterface=false
 target7.type=ClassTarget
 target7.width=80
 target7.x=0
 target7.y=0
 target8.height=50
-target8.name=MyWorld
+target8.name=gu
 target8.showInterface=false
 target8.type=ClassTarget
 target8.width=80
 target8.x=0
 target8.y=0
 version=3.0.0
-width=825
+width=838
 world.lastInstantiated=MyWorld
-<<<<<<< HEAD
-xPosition=675
-yPosition=44
-=======
-xPosition=797
-yPosition=303
->>>>>>> cc819f89e60ffaacbcf8528fed359055cd1aa972
+xPosition=842
+yPosition=552
