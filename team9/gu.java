@@ -20,7 +20,10 @@ public class gu extends Actor
     public void act() 
     {
         GreenfootImage img = new GreenfootImage(img_bkup);
-        img.scale( width++,height++ );
+        img.scale( width,height );
+        if(Greenfoot.mouseClicked(this)){
+            img.scale( width++,height++ );
+        }
         setImage(img);
     } 
 }
